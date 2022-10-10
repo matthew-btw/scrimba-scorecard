@@ -1,0 +1,121 @@
+
+@import url('http://fonts.cdnfonts.com/css/cursed-timer-ulil');
+               
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 10px
+}
+
+p {
+    color: #F94F6D;
+    font-size: 4.5rem;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px; 
+    font-family: 'Cursed Timer ULiL', sans-serif;
+}
+
+button {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  font-size: 1.2rem;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pts-bg {
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+    height: 130px;
+    background-color: black;
+    border: 1px #9AABD8 solid;
+    border-radius: 5px;
+}
+
+#home1 {
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    background-color: #1B244A;
+    margin: 10px 1px 20px 1px;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+
+}
+
+#home2 {
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    background-color: #1B244A;
+    margin: 10px 1px 20px 1px;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px; 
+}
+
+#home3 {
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    background-color: #1B244A;
+    margin: 20px 1px 20px 1px;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+    
+}
+#away1 {
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    background-color: #1B244A;
+    margin: 20px 1px 20px 1px;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+
+}
+
+#away2 {
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    background-color: #1B244A;
+    margin: 20px 1px 20px 1px;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px; 
+}
+
+#away3 {
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    background-color: #1B244A;
+    margin: 20px 1px 20px 1px;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+    
+}
+
+#new-game-div {
+    display: flex;
+    justify-content: center;  
+    margin: 15px;   
+}
+
+#new-gamebtn {
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    background-color: #1B244A;
+    padding: 8px;
+    border-radius: 5px;
+}
